@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#other stuff
+bin/
+share/
+etc/
+include/
+lib/
+*.ipynb
